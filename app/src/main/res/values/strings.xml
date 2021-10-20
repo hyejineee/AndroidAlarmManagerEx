@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmManagerEx</string>
+    <string name="onoffButton">OnOff</string>
+    <string name="changeTimeButton">Change Time</string>
+</resources>
